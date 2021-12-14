@@ -35,6 +35,6 @@ Here are some ideas to get you started:
   </div>
   
  <br></br>
-   ![snake gif](https://github.com/pcsafreire/pcsafreire/blob/output/github-contribution-grid-snake.gif)
+   ![Snake animation](https://github.com/pcsafreire/pcsafreire/blob/output/github-contribution-grid-snake.svg)
   
   
