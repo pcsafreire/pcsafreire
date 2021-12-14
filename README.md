@@ -32,6 +32,8 @@ Here are some ideas to get you started:
     <a href = "mailto:pcsafreire@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
    
+    https://github.com/pcsafreire/pcsafreire/blob/output/github-contribution-grid-snake.gif
+    ![snake gif](https://github.com/pcsafreire/pcsafreire/blob/output/github-contribution-grid-snake.gif)
     
   </div>
   
